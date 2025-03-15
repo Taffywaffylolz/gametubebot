@@ -4,8 +4,7 @@ const path = require('path');
 const axios = require('axios');
 const FormData = require('form-data');
 
-// Bot Token and IDs
-const TOKEN = 'MTM0OTA1ODAyODg1ODY0MjU2Ng.G7PkN4.yx4zaVdQZmaRWcr4rpdngH_DjtdFC9nksQsHSE'; // Replace with your actual bot token
+const TOKEN = 'MTM0OTA1ODAyODg1ODY0MjU2Ng.GMSgC1.tqQTXGrvdbipf8kBTdVKgIqXCLmhVKk21FSyNM';
 const CLIENT_ID = '1349058028858642566'; // Replace with your client ID
 
 // Allowed servers for file access
